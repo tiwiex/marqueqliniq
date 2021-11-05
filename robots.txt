@@ -1,4 +1,7 @@
 User-agent: *
 Disallow: /mail_handler.php
 
+User-agent: *
+Disallow: /marqueqliniq
+
 Sitemap: https://marqueqliniq.com/sitemap.xml
